@@ -21,4 +21,4 @@ The **Hotel Application** is a dynamic platform where users can manage hotels by
 - **React Icons**: Adds user-friendly icons to enhance the UI.
 - **Tailwind CSS**: Delivers a modern and responsive design.
 
-![GIF](hotels_app.gif)# Hotels_App-tanstack-query
+![GIF](hotels_app.gif)
